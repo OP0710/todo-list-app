@@ -53,7 +53,7 @@ All tasks are stored in Local Storage, so they remain after refreshing the page.
 Follow these steps to run the project locally.
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/op0710/todo-list-app.git
 2️⃣ Open the project folder
 3️⃣ Run the project
 
