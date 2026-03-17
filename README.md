@@ -64,6 +64,7 @@ Open index.html in your browser.
 View the live project here:
 
 https://op0710.github.io/todo-list-app
+
 📈 Future Improvements
 
 ✏ Edit tasks
